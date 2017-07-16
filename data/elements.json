@@ -1,0 +1,116 @@
+{
+  "mandrake_root": {
+    "title": {
+      "en": "Mandrake Root",
+      "ru": "Корень Мандрагоры"
+    }
+  },
+  "fern_flower": {
+    "title": {
+      "en": "Fern Flower",
+      "ru": "Цветок Папоротника"
+    }
+  },
+  "belladonna": {
+    "title": {
+      "en": "Belladonna",
+      "ru": "Белладонна"
+    }
+  },
+  "mushrooms": {
+    "title": {
+      "en": "Mushrooms",
+      "ru": "Мушрумы"
+    }
+  },
+  "astral_energy": {
+    "title": {
+      "en": "Astral Energy",
+      "ru": "Астральная Энергия"
+    }
+  },
+  "thought_energy": {
+    "title": {
+      "en": "Thought Energy",
+      "ru": "Энергия Мысли"
+    }
+  },
+  "waves_of_ether": {
+    "title": {
+      "en": "Waves of Ether",
+      "ru": "Волны Эфира"
+    }
+  },
+  "quintessence_of_will": {
+    "title": {
+      "en": "Quintessence of Will",
+      "ru": "Квинтэссенция воли"
+    }
+  },
+  "dragon_tooth": {
+    "title": {
+      "en": "Dragon tooth",
+      "ru": "Зуб Дракона"
+    }
+  },
+  "phoenix_feather": {
+    "title": {
+      "en": "Phoenix Feather",
+      "ru": "Перо Феникса"
+    }
+  },
+  "bat_wing": {
+    "title": {
+      "en": "Bat Wing",
+      "ru": "Крыло Летучей Мыши"
+    }
+  },
+  "snake_eye": {
+    "title": {
+      "en": "Snake Eye",
+      "ru": "Глаз Змеи"
+    }
+  },
+  "elemental_magma": {
+    "title": {
+      "en": "Elemental Magma",
+      "ru": "Элементарная Магема"
+    }
+  },
+  "air_crystal": {
+    "title": {
+      "en": "Air Crystal",
+      "ru": "Кристалл Воздуха"
+    }
+  },
+  "spring_water": {
+    "title": {
+      "en": "Spring Water",
+      "ru": "Родниковая Вода"
+    }
+  },
+  "bloodstone": {
+    "title": {
+      "en": "Bloodstone",
+      "ru": "Камень Крови"
+    }
+  },
+  "fiery_light": {
+    "title": {
+      "en": "Fiery Light",
+      "ru": "Огненный свет"
+    }
+  },
+  "combo1": {
+    "title": {
+      "en": "Astral Energy / Quintessence of Will / Waves of Ether",
+      "ru": "Астральная Энергия / Квинтэссенция Воли / Волны Эфира"
+    }
+  },
+  "combo2": {
+    "title": {
+      "en": "Phoenix Feather / Thought Energy / Dragon Tooth",
+      "ru": "Перо Феникса / Энергия Мысли / Зуб Дракона"
+    }
+  }
+}

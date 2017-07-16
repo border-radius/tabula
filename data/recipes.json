@@ -1,0 +1,526 @@
+{
+  "elixir_of_strength": {
+    "title": {
+      "en": "Elixir of Strength",
+      "ru": "Эликсир Силы"
+    },
+    "components": [
+      ["astral_energy", "combo1", "elemental_magma"],
+      ["bloodstone", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_eternal_youth": {
+    "title": {
+      "en": "Elixir of Eternal Youth",
+      "ru": "Эликсир Вечной Молодости"
+    },
+    "components": [
+      ["phoenix_feather", "combo2", "elemental_magma"],
+      ["waves_of_ether", "combo1", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_fire": {
+    "title": {
+      "en": "Elixir of Fire",
+      "ru": "Эликсир Огня"
+    },
+    "components": [
+      ["waves_of_ether", "combo1", "elemental_magma"]
+      ["fiery_light", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_knowledge": {
+    "title": {
+      "en": "Elixir of Knowledge",
+      "ru": "Эликсир Знания"
+    },
+    "components": [
+      ["fiery_light", "elemental_magma"],
+      ["fern_flower", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_oblivion": {
+    "title": {
+      "en": "Elixir of Oblivion",
+      "ru": "Эликсир Забвения"
+    },
+    "components": [
+      ["fiery_light", "elemental_magma"],
+      ["fern_flower", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_invisibility": {
+    "title": {
+      "en": "Elixir of Invisibility",
+      "ru": "Эликсир Невидимости"
+    },
+    "components": [
+      ["thought_energy", "combo2", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_fidelity": {
+    "title": {
+      "en": "Elixir of Fidelity",
+      "ru": "Эликсир Верности"
+    },
+    "components": [
+      ["mandrake_root", "elemental_magma"],
+      ["dragon_tooth", "combo2", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "elixir_of_secret_vision": {
+    "title": {
+      "en": "Elixir of Secret Vision",
+      "ru": "Эликсир Тайного Зрения"
+    },
+    "components": [
+      ["snake_eye", "elemental_magma"],
+      ["astral_energy", "combo1", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "solution_of_eternity": {
+    "title": {
+      "en": "Solution of Eternity",
+      "ru": "Раствор Вечности"
+    },
+    "components": [
+      ["mushrooms", "elemental_magma"],
+      ["phoenix_feather", "combo2", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "solution_amulet": {
+    "title": {
+      "en": "Solution Amulet",
+      "ru": "Раствор-Оберег"
+    },
+    "components": [
+      ["dragon_tooth", "combo2", "elemental_magma"],
+      ["quintessence_of_will", "combo1", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "love_potion": {
+    "title": {
+      "en": "Love Potion",
+      "ru": "Любовное Зелье"
+    },
+    "components": [
+      ["bloodstone", "elemental_magma"],
+      ["mandrake_root", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "everlasting_potion": {
+    "title": {
+      "en": "Everlasting Potion",
+      "ru": "Зелье Вечного Сна"
+    },
+    "components": [
+      ["spring_water", "elemental_magma"],
+      ["belladonna", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "polyglotum_potion": {
+    "title": {
+      "en": "Polyglotum Potion",
+      "ru": "Зелье Полиглотум"
+    },
+    "components": [
+      ["fern_flower", "elemental_magma"],
+      ["snake_eye", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "emanation_of_power": {
+    "title": {
+      "en": "Emanation of Power",
+      "ru": "Эманация Власти"
+    },
+    "components": [
+      ["quintessence_of_will", "combo1", "elemental_magma"],
+      ["spring_water", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "infusion_of_divination": {
+    "title": {
+      "en": "Infusion of Divination",
+      "ru": "Настой Прорицания"
+    },
+    "components": [
+      ["air_crystal", "elemental_magma"],
+      ["mushrooms", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+  "isidas_mortum": {
+    "title": {
+      "en": "Isidas Mortum",
+      "ru": "Исидас Мортум"
+    },
+    "components": [
+      ["bat_wing", "elemental_magma"],
+      ["thought_energy", "combo2", "elemental_magma"]
+    ],
+    "reward": 2
+  },
+
+  "elixir_of_wisdom": {
+    "title": {
+      "en": "Elixir of Wisdom",
+      "ru": "Эликсир Мудрости"
+    },
+    "components": [
+      ["waves_of_ether", "combo1", "elemental_magma"],
+      ["spring_water", "elemental_magma"],
+      ["fern_flower", "elemental_magma"]
+    ],
+    "reward": 3
+  },
+  "elixir_of_the_lord_of_plants": {
+    "title": {
+      "en": "Elixir of the Lord of Plants",
+      "ru": "Эликсир Повелителя Растений"
+    },
+    "components": [
+      ["belladonna", "elemental_magma"],
+      ["fiery_light", "elemental_magma"],
+      ["quintessence_of_will", "combo1", "elemental_magma"]
+    ],
+    "reward": 3
+  },
+  "elixir_of_fly": {
+    "title": {
+      "en": "Elixir of Fly",
+      "ru": "Эликсир Полета"
+    },
+    "components": [
+      ["mandrake_root", "elemental_magma"],
+      ["astral_energy", "combo1", "elemental_magma"],
+      ["air_crystal", "elemental_magma"]
+    ],
+    "reward": 3
+  },
+  "telepathic_drug": {
+    "title": {
+      "en": "Telepathic Drug",
+      "ru": "Телепатическое Снадобье"
+    },
+    "components": [
+      ["bloodstone", "elemental_magma"],
+      ["thought_energy", "combo2", "elemental_magma"],
+      ["mushrooms", "elemental_magma"]
+    ],
+    "reward": 3
+  },
+
+  "powder_of_control": {
+    "title": {
+      "en": "Powder of Control",
+      "ru": "Порошок Контроля"
+    },
+    "components": [
+      ["love_potion"],
+      ["dragon_tooth", "combo2", "elemental_magma"]
+    ],
+    "reward": 4
+  },
+  "powder_of_truth": {
+    "title": {
+      "en": "Powder of Truth",
+      "ru": "Порошок Истины"
+    },
+    "components": [
+      ["elixir_of_knowledge"],
+      ["snake_eye", "elemental_magma"]
+    ],
+    "reward": 4
+  },
+  "powder_of_fate": {
+    "title": {
+      "en": "Powder of Fate",
+      "ru": "Порошок Судьбы"
+    },
+    "components": [
+      ["infusion_of_divination"],
+      ["phoenix_feather", "combo2", "elemental_magma"]
+    ],
+    "reward": 4
+  },
+  "powder_of_incorporeity": {
+    "title": {
+      "en": "Powder of Incorporeity",
+      "ru": "Порошок Бестелесности"
+    },
+    "components": [
+      ["everlasting_potion"],
+      ["bat_wing", "elemental_magma"]
+    ],
+    "reward": 4
+  },
+
+  "great_elixir_of_omen": {
+    "title": {
+      "en": "Great Elixir of Omen",
+      "ru": "Великий Эликсир Предзнаменования"
+    },
+    "components": [
+      ["solution_of_eternity"],
+      ["infusion_of_divination"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_eternal_love": {
+    "title": {
+      "en": "Great Elixir of Eternal Love",
+      "ru": "Великий Эликсир Вечной Любви"
+    },
+    "components": [
+      ["love_potion"],
+      ["elixir_of_fidelity"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_rebirth": {
+    "title": {
+      "en": "Great Elixir of Rebirth",
+      "ru": "Великий Эликсир Возрождения"
+    },
+    "components": [
+      ["elixir_of_fire"],
+      ["elixir_of_eternal_youth"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_timelessness": {
+    "title": {
+      "en": "Great Elixir of Timelessness",
+      "ru": "Великий Эликсир Безвременья"
+    },
+    "components": [
+      ["elixir_of_oblivion"],
+      ["everlasting_potion"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_extinction": {
+    "title": {
+      "en": "Great Elixir of Extinction",
+      "ru": "Великий Эликсир Исчезновения"
+    },
+    "components": [
+      ["elixir_of_invisibility"],
+      ["isidas_mortum"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_power": {
+    "title": {
+      "en": "Great Elixir of Power",
+      "ru": "Великий Эликсир Могущества"
+    },
+    "components": [
+      ["elixir_of_strength"],
+      ["elixir_of_secret_vision"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_insight": {
+    "title": {
+      "en": "Great Elixir of Insight",
+      "ru": "Великий Эликсир Прозрения"
+    },
+    "components": [
+      ["elixir_of_knowledge"],
+      ["polyglotum_potion"]
+    ],
+    "reward": 6
+  },
+  "great_elixir_of_protection": {
+    "title": {
+      "en": "Great Elixir of Protection",
+      "ru": "Великий Эликсир Защиты"
+    },
+    "components": [
+      ["emanation_of_power"],
+      ["solution_amulet"]
+    ],
+    "reward": 6
+  },
+  "mascot_of_the_beast_master": {
+    "title": {
+      "en": "Mascot of the Beast Master",
+      "ru": "Талисман Повелителя Зверей"
+    },
+    "components": [
+      ["polyglotum_potion"],
+      ["elixir_of_the_lord_of_plants"]
+    ],
+    "reward": 8
+  },
+  "mascot_of_hidden_knowledge": {
+    "title": {
+      "en": "Mascot of Hidden Knowledge",
+      "ru": "Талисман Скрытого Знания"
+    },
+    "components": [
+      ["elixir_of_oblivion"],
+      ["elixir_of_wisdom"]
+    ],
+    "reward": 8
+  },
+  "teleportation_mascot": {
+    "title": {
+      "en": "Teleportation Mascot",
+      "ru": "Талисман Телепортации"
+    },
+    "components": [
+      ["solution_of_eternity"],
+      ["elixir_of_fly"]
+    ],
+    "reward": 8
+  },
+  "mascot_of_palantium": {
+    "title": {
+      "en": "Mascot of Palantium",
+      "ru": "Талисман Палантиум"
+    },
+    "components": [
+      ["elixir_of_fidelity"],
+      ["telepathic_drug"]
+    ],
+    "reward": 8
+  },
+  "fiery_salamander": {
+    "title": {
+      "en": "Fiery Salamander",
+      "ru": "Огненная Саламандра"
+    },
+    "components": [
+      ["powder_of_truth"],
+      ["elixir_of_fire"]
+    ],
+    "reward": 8
+  },
+  "banshee": {
+    "title": {
+      "en": "Banshee",
+      "ru": "Баньши"
+    },
+    "components": [
+      ["powder_of_incorporeity"],
+      ["emanation_of_power"]
+    ],
+    "reward": 8
+  },
+  "unicorn": {
+    "title": {
+      "en": "Unicorn",
+      "ru": "Единорог"
+    },
+    "components": [
+      ["solution_amulet"],
+      ["elixir_of_wisdom"]
+    ],
+    "reward": 8
+  },
+  "invisible_guard": {
+    "title": {
+      "en": "Invisible Guard",
+      "ru": "Незримый Страж"
+    },
+    "components": [
+      ["powder_of_fate"],
+      ["elixir_of_invisibility"]
+    ],
+    "reward": 8
+  },
+  "dragon": {
+    "title": {
+      "en": "Dragon",
+      "ru": "Дракон"
+    },
+    "components": [
+      ["powder_of_control"],
+      ["elixir_of_strength"]
+    ],
+    "reward": 8
+  },
+  "avocado_cadavre": {
+    "title": {
+      "en": "Avocado Cadavre",
+      "ru": "Авакадо-кадавр"
+    },
+    "components": [
+      ["elixir_of_eternal_youth"],
+      ["elixir_of_the_lord_of_plants"],
+    ],
+    "reward": 8
+  },
+  "hippogriff": {
+    "title": {
+      "en": "Hippogriff",
+      "ru": "Гиппогриф"
+    },
+    "components": [
+      ["isidas_mortum"],
+      ["elixir_of_fly"]
+    ],
+    "reward": 8
+  },
+  "basilisk": {
+    "title": {
+      "en": "Basilisk",
+      "ru": "Василиск"
+    },
+    "components": [
+      ["elixir_of_secret_vision"],
+      ["telepathic_drug"]
+    ],
+    "reward": 8
+  },
+
+  "supreme_elixir": {
+    "title": {
+      "en": "Supreme Elixir",
+      "ru": "Верховный Эликсир"
+    },
+    "components": [
+      ["great_elixir_of_omen", "great_elixir_of_power", "great_elixir_of_insight", "great_elixir_of_rebirth", "great_elixir_of_protection", "great_elixir_of_extinction", "great_elixir_of_timelessness", "great_elixir_of_eternal_love"]
+      ["great_elixir_of_omen", "great_elixir_of_power", "great_elixir_of_insight", "great_elixir_of_rebirth", "great_elixir_of_protection", "great_elixir_of_extinction", "great_elixir_of_timelessness", "great_elixir_of_eternal_love"]
+    ],
+    "reward": 8
+  },
+  "great_magic_mascot": {
+    "title": {
+      "en": "Great Magic Mascot",
+      "ru": "Великий Талисман Магии"
+    },
+    "components": [
+      ["mascot_of_palantium", "mascot_of_hidden_knowledge", "mascot_of_the_beast_master", "teleportation_mascot"],
+      ["mascot_of_palantium", "mascot_of_hidden_knowledge", "mascot_of_the_beast_master", "teleportation_mascot"]
+    ],
+    "reward": 8
+  },
+  "alchemy_cat": {
+    "title": {
+      "en": "Alchemy Cat",
+      "ru": "Алхимикотэ"
+    },
+    "components": [
+      ["great_elixir_of_omen", "great_elixir_of_power", "great_elixir_of_insight", "great_elixir_of_rebirth", "great_elixir_of_protection", "great_elixir_of_extinction", "great_elixir_of_timelessness", "great_elixir_of_eternal_love"]
+      ["great_elixir_of_omen", "great_elixir_of_power", "great_elixir_of_insight", "great_elixir_of_rebirth", "great_elixir_of_protection", "great_elixir_of_extinction", "great_elixir_of_timelessness", "great_elixir_of_eternal_love"]
+    ],
+    "reward": 10
+  }
+}
